@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arif</h1>
 <h3 align="center">Backend developer from Türkiye</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=protesq" alt="protesq" /></a> </p>
-
 - 🔭 I’m currently working on **Python,C++ and C#**
 
 <h3 align="left">Connect with me:</h3>
@@ -18,3 +16,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=protesq&show_icons=true&locale=en" alt="protesq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=protesq&" alt="protesq" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=protesq" alt="protesq" /></a> </p>
