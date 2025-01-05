@@ -2,8 +2,8 @@
 <h3 align="center">I will be backend developer I also  part time python dev. :) </h3>
 
 <p align="center">🔭 I’m currently working on <b>Python, C++ and C#</b></p>
-<p align="center">🔭 I am studying MIS at Aksaray University and Master's MIS at Gazi University. I am also a graduate of Akdeniz University, Department of Economics.</b></p>
-
+<p align="center"> I am studying MIS at Aksaray University and Master's MIS at Gazi University.</b></p>
+<p align="center"> I am also a graduate of Akdeniz University, Department of Economics.</b></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
